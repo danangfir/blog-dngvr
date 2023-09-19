@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
-    description: 'The minimalist blog theme',
+    title: 'Danang',
+    description: 'Web porto',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
@@ -19,7 +19,7 @@ export default defineAppConfig({
     footer: {
       credits: {
         enabled: true, // possible value are : true | false
-        repository: 'https://www.github.com/nuxt-themes/alpine' // our github repository
+        repository: 'https://github.com/danangfir/blog-dngvr' // our github repository
       },
       navigation: true, // possible value are : true | false
       alignment: 'center', // possible value are : 'none' | 'left' | 'center' | 'right'
@@ -31,7 +31,7 @@ export default defineAppConfig({
       linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
-        href: 'https://www.linkedin.com/company/nuxtlabs'
+        href: 'https://www.linkedin.com/in/danang-firmanto-936600218'
       }
     },
     form: {
