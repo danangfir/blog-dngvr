@@ -1,5 +1,5 @@
 ---
-cover: /project/pypi.png
+cover: /project/pypi.webp
 author:
   name: Danang Firmanto
   avatarUrl: https://twitter.com/Dan45934931/photo
